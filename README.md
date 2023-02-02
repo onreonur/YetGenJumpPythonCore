@@ -1,0 +1,2 @@
+# YetGenJumpPythonCore
+Uygulamalar
