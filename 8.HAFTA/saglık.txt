@@ -1,0 +1,12 @@
+kullanýcýOnur Önre
+kullanýcýnýn yaþ, kilo, boy bilgisi 24,92.0,1.88
+kullanýcýnýn vücut kitle indeksi 26.0
+deðer aralýðý fazla kilolu
+oluþturma tarihiFri Apr 14 22:45:57 2023
+********************
+kullanýcýmertcan ýþýk
+kullanýcýnýn yaþ, kilo, boy bilgisi 26,108.0,1.85
+kullanýcýnýn vücut kitle indeksi 31.6
+deðer aralýðý obez
+oluþturma tarihiFri Apr 14 22:46:16 2023
+********************
